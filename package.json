@@ -67,7 +67,7 @@
     "html2canvas": "^1.0.0-rc.5",
     "jimp": "^0.8.5",
     "leaflet": "^1.6.0",
-    "lodash": "^4.17.11",
+    "lodash": "^4.17.13",
     "mustache": "^2.3.0",
     "natives": "^1.1.6",
     "nouislider": "^14.1.1",
